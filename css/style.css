@@ -1,6 +1,6 @@
 header {
     background-image: url(../img/pattern.png);
-    background-color: dodgerblue;
+    background-color: #1e90ff;
     height: 180px;
     position: relative;
 }
@@ -10,4 +10,32 @@ header {
     position: absolute;
     bottom: 8px;
     left: 16px;
+}
+
+.titolo {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: #1e90ff;
+}
+
+.autore {
+    font-size: 17px;
+    color: darkgrey;
+}
+
+.data {
+    font-size: 14px;
+}
+
+.tim {
+    margin-top: 20px;
+}
+
+.photo-information {
+    font-size: 14px;
 }
