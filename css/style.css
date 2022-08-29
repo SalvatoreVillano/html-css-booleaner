@@ -3,6 +3,9 @@ header {
     background-color: #1e90ff;
     height: 180px;
     position: relative;
+    margin-left: -34%;
+    margin-right: -33.3%;
+
 }
 
 .logo {
@@ -54,4 +57,9 @@ thead{
 .tdmargin{
     width: 20%;
 
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
 }
