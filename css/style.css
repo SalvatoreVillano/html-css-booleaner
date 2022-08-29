@@ -39,3 +39,19 @@ a {
 .photo-information {
     font-size: 14px;
 }
+
+table{
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color:#1e90ff;
+    color: white;
+    text-align: left;
+}
+
+.tdmargin{
+    width: 20%;
+
+}
